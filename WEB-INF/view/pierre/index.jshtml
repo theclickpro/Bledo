@@ -1,0 +1,23 @@
+<?
+var i = 0;
+	
+	if (header2) {
+	
+	for (i = 0; i < 30; i++)
+	{
+		Output("<p>" + i + "Somte Text</p>");
+	}
+	
+ ?>
+
+<h1>This is a header2</h1>
+
+<? }  else { ?>
+	<h1>This is a header</h1>
+
+<? } ?>
+
+
+<?
+ Output(tobject.test);
+ ?>

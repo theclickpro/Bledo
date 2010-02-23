@@ -1,0 +1,8 @@
+<ul>
+	<li><a href="<%=BASEURL%>/">Home Page</a></li>
+	<li><a href="<%=BASEURL%>/">About Us</a></li>
+	<li><a href="<%=BASEURL%>/">Solutions</a></li>
+	<li><a href="<%=BASEURL%>/">Services</a></li>
+	<li><a href="<%=BASEURL%>/">Clients</a></li>
+	<li><a href="<%=BASEURL%>/">Contact Us</a></li>
+</ul>

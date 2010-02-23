@@ -1,0 +1,44 @@
+<div class="column">
+<div class="column_icon" style="background-image: url(<%=STATICURL%>/img/crystal/app_sharemanager.png);"></div>
+<div class="column_title_cont"><h1 class="column_title">Web<br />Hosting</h1></div>
+<div class="column_content">
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+</div>
+</div>
+
+<div class="column">
+<div class="column_icon" style="background-image: url(<%=STATICURL%>/img/crystal/kuser2.png);"></div>
+<div class="column_title_cont"><h1 class="column_title">CRM & Enterprise Solutions</h1></div>
+<div class="column_content">
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+</div>
+</div>
+
+<div class="column">
+<div class="column_icon" style="background-image: url(<%=STATICURL%>/img/crystal/app_network_connection_manager.png);"></div>
+<div class="column_title_cont"><h1 class="column_title">Custom Web Applications</h1></div>
+<div class="column_content">
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+Temp Content <br />
+</div>
+</div>
